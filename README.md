@@ -1,10 +1,10 @@
 # Hi 👋, I'm Vasu Katravath
-A passionate **Data Scientist** and **Full-Stack Developer** from India.
+A passionate **Data Scientist** and **Machine Learning Engineer** from India.
 
 - 🌱 Currently working on **Building Foundational Model for Sub-Surface Intelligence**  
 - 🎓 Graduated from **IIT Kharagpur** with a Dual Degree in **Industrial and Systems Engineering**  
-- 💡 Exploring **Generative AI**, **Cloud-Native Applications**, and **Retrieval-Augmented Generation (RAG)** Systems  
-- 💬 Ask me about **Big Data Analytics, Machine Learning, and Prompt Engineering**  
+- 💡 Exploring, implementing, and advancing **Generative AI**, **Retrieval-Augmented Generation (RAG) systems**, **Cloud-Native Solutions**, and **Distributed Computing** to build scalable, intelligent applications. 
+- 💬 Ask me about **Machine Learning, Deep Learning, NLP, Computer vision, Generative AI, and Prompt Engineering**  
 - 📫 How to reach me: **katravathvasu000@gmail.com**  
 
 ---
