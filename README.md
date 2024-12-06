@@ -1,10 +1,10 @@
 # Hi 👋, I'm Vasu Katravath
-A passionate **Data Scientist** and **Machine learning Engineer** from India.
+A passionate **Data Scientist** and **Full-Stack Developer** from India.
 
-- 🌱 Currently working on **Building Foundational Model for Sub Surface Intelligence**  
+- 🌱 Currently working on **Building Foundational Model for Sub-Surface Intelligence**  
 - 🎓 Graduated from **IIT Kharagpur** with a Dual Degree in **Industrial and Systems Engineering**  
-- 💡 Exploring **Generative AI**, **ML Ops**, and **Cloud-Native Applications**  
-- 💬 Ask me about **Machine Learning, Distributed Computing, and Prompt Engineering**  
+- 💡 Exploring **Generative AI**, **Cloud-Native Applications**, and **Retrieval-Augmented Generation (RAG)** Systems  
+- 💬 Ask me about **Big Data Analytics, Machine Learning, and Prompt Engineering**  
 - 📫 How to reach me: **katravathvasu000@gmail.com**  
 
 ---
@@ -15,39 +15,58 @@ A passionate **Data Scientist** and **Machine learning Engineer** from India.
 
 ---
 
-### Languages and Tools:
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-FFC107?style=for-the-badge&logo=langchain&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+### 🛠️ Skills and Tools:
 
----
-
-### GitHub Stats:
-![Vasu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vasu2803k&show_icons=true&theme=radical)
-
----
-
-### Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasu2803k&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td>
+      <h4>Languages & Frameworks</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" alt="SQL" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+      </p>
+      <h4>Cloud & Big Data</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" />
+        <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+        <img src="https://img.shields.io/badge/CosmosDB-0078D4?style=for-the-badge&logo=azurecosmosdb&logoColor=white" alt="CosmosDB" />
+        <img src="https://img.shields.io/badge/Dask-FF4500?style=for-the-badge&logo=dask&logoColor=white" alt="Dask" />
+      </p>
+      <h4>Advanced Tools</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Llama%20Index-2A2A2A?style=for-the-badge&logo=llama&logoColor=white" alt="Llama Index" />
+        <img src="https://img.shields.io/badge/AutoGen-00C4B3?style=for-the-badge&logoColor=white" alt="AutoGen" />
+        <img src="https://img.shields.io/badge/LangChain-FFC107?style=for-the-badge&logo=langchain&logoColor=black" alt="LangChain" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+      </p>
+    </td>
+    <td>
+      <h4>📊 GitHub Stats:</h4>
+      <img src="https://github-readme-stats.vercel.app/api?username=Vasu2803k&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <h4>📈 Most Used Languages:</h4>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasu2803k&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### Featured Projects:
-- **Geoscience AI Assistant:** Enhanced query accuracy by 35% using **LangChain** and **Meta’s LLaMA-2** LLM.  
+- **Geoscience AI Assistant:** Enhanced query accuracy by 35% using **Llama Index**, **LangChain**, and **Meta’s LLaMA-2** LLM.  
 - **Satellite Imagery Super-Resolution Model:** Achieved 95% accuracy using GAN-based Deep Learning approaches.  
 - **NLP-Powered Predictive Maintenance:** Designed a framework improving response accuracy by 30%.  
+- **RAG-Based Information Retrieval System:** Developed a system integrating **Llama Index** and **LangChain**, improving retrieval efficiency by 40%.  
 
-Explore more on my [GitHub](https://github.com/Vasu2803k)
+Explore more on my [GitHub](https://github.com/Vasu2803k).
 
 ---
 
 ### Looking for Collaboration or Opportunities? 🚀
-Feel free to reach out if you're seeking expertise in **Generative AI**, **Cloud Computing**, or **AI-driven business solutions**.
+Feel free to reach out if you're seeking expertise in **Big Data Analytics**, **RAG Systems**, **Cloud Computing**, or **AI-driven business solutions**.
 
 ---
 
