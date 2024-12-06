@@ -3,8 +3,8 @@ A passionate **Data Scientist** and **Machine Learning Engineer** from India.
 
 - 🌱 Currently working on **Building Foundational Model for Sub-Surface Intelligence**  
 - 🎓 Graduated from **IIT Kharagpur** with a Dual Degree in **Industrial and Systems Engineering**  
-- 💡 Exploring, implementing, and advancing **Generative AI**, **Retrieval-Augmented Generation (RAG) systems**, **Cloud-Native Solutions**, and **Distributed Computing** to build scalable, intelligent applications. 
-- 💬 Ask me about **Machine Learning, Deep Learning, NLP, Computer vision, Generative AI, and Prompt Engineering**  
+- 💡 Passionately exploring, designing, and implementing cutting-edge solutions in **Generative AI**, **Retrieval-Augmented Generation (RAG) systems**, **Cloud-Native Applications**, and **Distributed Computing**, with a focus on scalability, innovation, and real-world impact.  
+- 💬 Ask me about **Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, and Prompt Engineering**  
 - 📫 How to reach me: **katravathvasu000@gmail.com**  
 
 ---
@@ -32,7 +32,7 @@ A passionate **Data Scientist** and **Machine Learning Engineer** from India.
       <p>
         <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" />
         <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
         <img src="https://img.shields.io/badge/CosmosDB-0078D4?style=for-the-badge&logo=azurecosmosdb&logoColor=white" alt="CosmosDB" />
         <img src="https://img.shields.io/badge/Dask-FF4500?style=for-the-badge&logo=dask&logoColor=white" alt="Dask" />
       </p>
