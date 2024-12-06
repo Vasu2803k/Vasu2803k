@@ -42,7 +42,7 @@ A passionate **Data Scientist** and **Machine learning Engineer** from India.
 - **Satellite Imagery Super-Resolution Model:** Achieved 95% accuracy using GAN-based Deep Learning approaches.  
 - **NLP-Powered Predictive Maintenance:** Designed a framework improving response accuracy by 30%.  
 
-Explore more on my [GitHub](https://github.com/Vasu2803k) or [Resume](https://github.com/Vasu2803k).
+Explore more on my [GitHub](https://github.com/Vasu2803k)
 
 ---
 
