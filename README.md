@@ -56,7 +56,7 @@ A passionate **Data Scientist** and **Machine Learning Engineer** from India.
 ---
 
 ### Featured Projects:
-- **Geoscience AI Assistant:** Enhanced query accuracy by 35% using **Llama Index**, **LangChain**, and **Meta’s LLaMA-2** LLM.  
+- **Geoscience AI Assistant:** Enhanced query accuracy by 35% using **Llama Index**, **LangChain**, and **OpenAI** LLM.  
 - **Satellite Imagery Super-Resolution Model:** Achieved 95% accuracy using GAN-based Deep Learning approaches.  
 - **NLP-Powered Predictive Maintenance:** Designed a framework improving response accuracy by 30%.  
 - **RAG-Based Information Retrieval System:** Developed a system integrating **Llama Index** and **LangChain**, improving retrieval efficiency by 40%.  
