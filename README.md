@@ -43,12 +43,6 @@ A passionate **Data Scientist** and **Machine Learning Engineer** from India.
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
       </p>
     </td>
-    <td>
-      <h4>📊 GitHub Stats:</h4>
-      <img src="https://github-readme-stats.vercel.app/api?username=Vasu2803k&show_icons=true&theme=radical" alt="GitHub Stats" />
-      <h4>📈 Most Used Languages:</h4>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasu2803k&layout=compact&theme=radical" alt="Top Languages" />
-    </td>
   </tr>
 </table>
 
