@@ -1,5 +1,5 @@
 # Hi 👋, I'm Vasu Katravath
-A passionate **Data Scientist** and **Machine Learning Engineer** from India.
+A passionate **Data Scientist** and **AI/ML Engineer** from Hyderabad, India.
 
 - 🎓 Graduated from **IIT Kharagpur** with a specialization in **Industrial and Systems Engineering** ~ Analytics and Management
 - 💡 Passionately exploring, designing, and implementing cutting-edge solutions in **Generative AI**, **Retrieval-Augmented Generation (RAG) systems**, **Cloud-Native Applications**, and **Distributed Computing**, with a focus on scalability, innovation, and real-world impact.  
